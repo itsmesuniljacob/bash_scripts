@@ -36,3 +36,5 @@ In Bash, there are several conditional expressions that can be used in conjuncti
 
 These conditional expressions can be used individually or combined using logical operators like -a (logical AND) and -o (logical OR) to form more complex conditions.
 
+To achieve an advanced conditional logic without explicitly using the if keyword, you can utilize the short-circuit evaluation of Bash and combine it with conditional expressions. 
+
