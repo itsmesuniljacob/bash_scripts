@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Short circuit bash if
 # Example script with advanced conditional logic
 
 # Set the condition (can be modified as per your requirement)
